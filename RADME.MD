@@ -1,1 +1,1 @@
-Home Work Android 1.1
+Домашнее задание к занятию «1.2. Ресурсы, View и ViewGroup»
